@@ -1,0 +1,13 @@
+Restrições de integridade(entendendo melhor as constraints)
+
+Restrição de integridade(ou constraint) é uma regra de consistência de dados que é garantida pelo próprio SGBD.
+
+Primary Key - Integridade de chave + Integridade de Entidade(Unique e Not Null)
+
+Foreign Key - Integridade referencial(Faz referência para uma Primary Key de outra tabela)
+
+Unique - Integridade de unicidade(Permite a inclusão apenas  de valores únicos)
+
+Enum - Integridade de domínio(Limita as opções de valores para coluna)
+
+Not Null - Integridade de vazio(impede a inclusão de valores nulos)
