@@ -1,0 +1,5 @@
+Default - Valores padrões
+
+Constraint que permite adicionar um valor padrão para uma coluna caso a informação não seja passa no insert.
+
+Otimiza as operaçẽos de insert quando uma determinada coluna de uma tabela geralmente recebe o mesmo valor.
