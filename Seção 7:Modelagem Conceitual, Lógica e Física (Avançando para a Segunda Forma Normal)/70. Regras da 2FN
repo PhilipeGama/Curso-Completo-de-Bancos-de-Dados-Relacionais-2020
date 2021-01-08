@@ -1,0 +1,11 @@
+Regras da 2FN
+
+A tabela precisa estar na primeira forma normal
+	Ter uma identificação única para cada registro 
+	Atributos com valores atômicos
+	
+Não possuir depedências parcias
+	Todos os atributos não chave devem ser total e
+	funcionamente dependentes da chave primária
+
+Tabela normalizada na Segunda Forma Normal
