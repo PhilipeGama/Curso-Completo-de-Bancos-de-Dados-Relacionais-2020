@@ -1,0 +1,4 @@
+/*
+2FN - testamos a dependência funcional total (campos não-chave -> pk compostas)
+3FN - testamos a dependência transitiva (campos não-chave -> campos não chaves)
+*/
